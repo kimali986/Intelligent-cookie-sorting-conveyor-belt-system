@@ -1,3 +1,4 @@
+#SmartSort: Intelligent Cookie Sorting Conveyor Belt System
 Project Overview:
 
 This project involves the development of an automated system designed to sort cookies on a conveyor belt using advanced computer vision techniques and sensor integration. 
